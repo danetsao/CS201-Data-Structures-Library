@@ -14,7 +14,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd Phase2
+  cd Phase1
 ```
 
 Run the makefile
@@ -26,7 +26,7 @@ Run the makefile
 Execute
 
 ```bash
-  ./Phase2
+  ./Phase1
 ```
 
 Feel free to mess around with the Phase2Main.cpp to create different trees and test different cases.
