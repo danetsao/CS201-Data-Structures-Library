@@ -14,4 +14,6 @@ Old            |  New
 :-------------------------:|:-------------------------:
 ![](https://github.com/danetsao/CS201-Data-Structures-Library/blob/main/Code-Review/Images/OldPredPointRemove.png)  |  ![](https://github.com/danetsao/CS201-Data-Structures-Library/blob/main/Code-Review/Images/NewPredPointRemove.png)
 
-
+## Key Insights
+ - Debugging
+ - Time Management
