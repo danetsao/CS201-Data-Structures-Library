@@ -1,8 +1,7 @@
 
 # Code Review
 
-A brief description of what this project does and who it's for
-
+A brief code review on some insight on this project, spcifically with Phase 2, Red Black Trees.
 
 ## Printing problem
 Old            |  New
