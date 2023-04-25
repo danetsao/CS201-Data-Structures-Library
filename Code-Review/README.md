@@ -10,6 +10,8 @@ Old            |  New
 
 
 ## Updating count after a delete
+### Remove Function
+![](https://github.com/danetsao/CS201-Data-Structures-Library/blob/main/Code-Review/Images/remove.png)
 Old            |  New
 :-------------------------:|:-------------------------:
 ![](https://github.com/danetsao/CS201-Data-Structures-Library/blob/main/Code-Review/Images/OldPredPointRemove.png)  |  ![](https://github.com/danetsao/CS201-Data-Structures-Library/blob/main/Code-Review/Images/NewPredPointRemove.png)
