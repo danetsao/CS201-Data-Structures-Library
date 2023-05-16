@@ -8,7 +8,7 @@ This is an implementation of a Red Black Tree, which provides an efficient way t
 Clone the project
 
 ```bash
-  git clone "https://github.com/danetsao/CS201-Data-Structures-Library"
+  git clone git clone https://github.com/danetsao/CS201-Data-Structures-Library.git
 ```
 
 Go to the project directory
