@@ -8,7 +8,7 @@ This is an implementation of a circular dynamic array data structure, which prov
 Clone the project
 
 ```bash
-  git clone "https://github.com/danetsao/CS201-Data-Structures-Library"
+  git clone [https://github.com/danetsao/CS201-Data-Structures-Library.git](https://github.com/danetsao/CS201-Data-Structures-Library.git)
 ```
 
 Go to the project directory
