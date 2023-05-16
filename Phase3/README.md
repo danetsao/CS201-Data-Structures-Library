@@ -7,7 +7,7 @@ This is an implementation of Heap and Binomial Heap data structures, which provi
 Clone the project
 
 ```bash
-  git clone "https://github.com/danetsao/CS201-Data-Structures-Library"
+  git clone https://github.com/danetsao/CS201-Data-Structures-Library.git
 ```
 
 Go to the project directory
