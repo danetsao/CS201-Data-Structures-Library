@@ -1,5 +1,5 @@
 
-# CS201 Data Structures Library
+# Data Structures Library
 
 A three phase, semester long project consisting of implementing different data strucutres. This was done in 100% C++.
 
